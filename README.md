@@ -5,16 +5,15 @@
     <meta charset="UTF-8" />
     <!-- 여기 아래에 복사 붙여넣기 합니다. -->
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2VZJ1KXNZ5"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
 
-        gtag("config", "G-2VZJ1KXNZ5");
-    </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CKX6P9LFTK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CKX6P9LFTK');
+</script>
     <!-- 여기 위에 복사 붙여넣기 합니다. -->
 </head>
 <body>
